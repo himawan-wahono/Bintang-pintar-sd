@@ -1,0 +1,13 @@
+{
+  "name": "ai-question-generator-microservice",
+  "version": "1.0.0",
+  "description": "Automated weekly Gemini AI Question Generator & Firestore Sync",
+  "main": "scratch/ai_question_generator.js",
+  "scripts": {
+    "start": "node scratch/ai_question_generator.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.1.1",
+    "firebase-admin": "^11.11.0"
+  }
+}

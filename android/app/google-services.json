@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "711604503802",
+    "project_id": "bintang-pintar-app",
+    "storage_bucket": "bintang-pintar-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711604503802:android:8dd87365b534c9f86ff543",
+        "android_client_info": {
+          "package_name": "com.sinankreatif.petualangan_belajar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711604503802-5ivmc71j8cv02h5nbfi9ch6fbj32sobt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmgv7vQItfRfoBYzJT3JR-4Fqv3O9d2Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711604503802-5ivmc71j8cv02h5nbfi9ch6fbj32sobt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
